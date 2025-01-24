@@ -41,10 +41,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="shaders\vertex.shader" />
-    <None Include="shaders\fragment.shader" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Renderer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
